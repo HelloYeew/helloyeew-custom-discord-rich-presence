@@ -1,0 +1,12 @@
+{
+    "name": "my-custom-discord-rich-presence",
+    "version": "1.0.0",
+    "description": "My program for customize rich presence status in discord.",
+    "main": "main.js",
+    "repository": "https://github.com/HelloYeew/my-custom-discord-rich-presence",
+    "author": "HelloYeew",
+    "dependencies": {
+      "discord-rich-presence": "0.0.8"
+    }
+  }
+  
