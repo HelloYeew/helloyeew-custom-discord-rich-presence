@@ -1,7 +1,3 @@
-
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
 # My Custom Discord Rich Presence
 
 Program for customize (or make) rich presence status in discord.
@@ -47,6 +43,4 @@ Or download from [Release](https://github.com/HelloYeew/my-custom-discord-rich-p
 ![Alt text](readme_pic/clientid.png)
 
 ## Run a program
-=======
->>>>>>> 0e5f9d01d64c1c054fd26db9de0a0c11ff9a21dd
->>>>>>> Stashed changes
+
