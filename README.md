@@ -1,3 +1,7 @@
+Other language
+
+[Thai](README-th.md) *(Coming Soon)*
+
 # My Custom Discord Rich Presence
 
 Program for customize (or make) rich presence status in discord.
@@ -36,10 +40,11 @@ PS.After you save, you cannot change your image key so if you want to change you
 ```zsh
 git clone https://github.com/HelloYeew/my-custom-discord-rich-presence
 ```
+
 Or download from [Release](https://github.com/HelloYeew/my-custom-discord-rich-presence/releases) page.
 
-2.Get in folder and open main.js using text editor for config our rich presence. (All config description is already in JS files or you can see a config example here.
-
+2.Get in folder and open main.js using text editor for config our rich presence. (All config description is already in JS files or you can see a config example here.)
+You can use English or other language as much as you want.
 ![Alt text](readme_pic/sample.jpg)
 
 3.Change ```id``` at the first line to your client ID in application dashboard. (It's all number.)
