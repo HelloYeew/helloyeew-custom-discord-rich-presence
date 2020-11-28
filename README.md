@@ -91,7 +91,7 @@ npm install
 
 3.After complete close it and get in folder from Windows Explorer and open *start_win.bat*
 
-4,Check your rich presence from discord!
+4.Check your rich presence from discord!
 
 ## Warning!
 
