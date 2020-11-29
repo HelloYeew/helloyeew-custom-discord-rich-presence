@@ -9,6 +9,7 @@ Program for customize (or make) rich presence status in discord.
 # Requirement
 
 - [Node.js](https://nodejs.org/en/)
+- Git (If you want to clone a repo.)
 
 # How to use it
 
@@ -95,6 +96,6 @@ npm install
 
 ## Warning!
 
-- On both Macs and Windows if you close a terminal or command prompt (when you click open *start_win.bat*) It will stop your rich presence
+- On both Macs and Windows if you close a terminal or command prompt (when you click open *start_win.bat*) It will stop your rich presence.
 - If you close Discord, a program will auto stop.
-- On Macs if you want to stop a program to config something in *main.js* you can click **Control + C** to stop a program and config something. After config you can run it again without closing a termnal.
+- On Macs if you want to stop a program to config something in *main.js* you can click **Control + C** to stop a program and config something. After config you can run it again without closing a terminal. (In Windows just close Command Prompt and config then double click *start_win.bat* to open again.)
