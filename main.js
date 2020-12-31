@@ -7,5 +7,7 @@ client.updatePresence({
     smallImageKey: 'smallimage',
     smallImageText: "Small Image Hover Text",
     startTimestamp: Date.now(),
+    // partySize: 1,
+    // partyMax: 1,
     instance: true,
 });
